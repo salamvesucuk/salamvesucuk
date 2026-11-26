@@ -1,7 +1,4 @@
-## Hi there, I’m salamsucuk. 
-#### I am interested in Cyber Security.
-#### And i Like Python
-
+![Header](./your-header-image-name.png)
 <!--
 **salamvesucuk/salamvesucuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
