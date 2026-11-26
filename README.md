@@ -1,6 +1,6 @@
 ## Hi there, I’m salamsucuk. 
-## I have interest of Cyber Security.
-## And i Like Python
+# I am interested in Cyber Security.
+# And i Like Python
 
 <!--
 **salamvesucuk/salamvesucuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
